@@ -264,12 +264,41 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7059188001592281700, guid: 7549b656431d8c042a25be8b0f1838da, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2a1a7546fac198342864129996c33c7f, type: 2}
+    - target: {fileID: -4055766614442332072, guid: 7549b656431d8c042a25be8b0f1838da, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2a1a7546fac198342864129996c33c7f, type: 2}
+    - target: {fileID: -3331410830395251821, guid: 7549b656431d8c042a25be8b0f1838da, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2a1a7546fac198342864129996c33c7f, type: 2}
+    - target: {fileID: -2649410916835067321, guid: 7549b656431d8c042a25be8b0f1838da, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2a1a7546fac198342864129996c33c7f, type: 2}
+    - target: {fileID: -2293705621468547309, guid: 7549b656431d8c042a25be8b0f1838da, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2a1a7546fac198342864129996c33c7f, type: 2}
     - target: {fileID: 919132149155446097, guid: 7549b656431d8c042a25be8b0f1838da, type: 3}
       propertyPath: m_Name
       value: Room3D
       objectReference: {fileID: 0}
+    - target: {fileID: 3240019170445581616, guid: 7549b656431d8c042a25be8b0f1838da, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2a1a7546fac198342864129996c33c7f, type: 2}
+    - target: {fileID: 6781411849181386016, guid: 7549b656431d8c042a25be8b0f1838da, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2a1a7546fac198342864129996c33c7f, type: 2}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: -4862292676712232707, guid: 7549b656431d8c042a25be8b0f1838da, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7549b656431d8c042a25be8b0f1838da, type: 3}
